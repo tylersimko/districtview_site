@@ -6,7 +6,7 @@ about:
 
 ## Coming soon: A data science toolkit to study US school boards
 
-<img class="logo-img" src="logo.png" alt="DistrictView logo">
+<img class="logo-img" src="dv_logo.png" alt="DistrictView logo">
 
 DistrictView is the <u>largest</u> collection of school board meetings ever assembled and publicly released. We identify, process, clean, and publicly release data on school board meetings as posted on YouTube.
 
