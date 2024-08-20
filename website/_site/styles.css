@@ -1,0 +1,54 @@
+/* css styles */
+
+.title {
+  font-size: 4em;
+  font-style: bold;
+  color: white;
+  font-variant: small-caps;
+  padding-bottom: 0em;
+  width: 80%;
+}
+
+.quarto-document-content {
+    margin-top:  0em;
+}
+
+#title-block-header {
+  margin-bottom: 0em;
+}
+
+.h2 {
+  margin-top: 0em;
+}
+
+.about-image-round {
+  display: block;
+  position: fixed;
+  bottom: unset !important;
+  right: unset !important;
+  top: 5px;
+  left: 12px;
+  height: 100px !important;
+  width: 100x !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    padding-top: 0em;
+    margin-top: 0em;
+    padding-bottom: 0em;
+    height: auto; 
+    width: 40%; 
+}
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}

@@ -1,0 +1,21 @@
+---
+title: "DistrictView"
+about:
+  template: jolla
+---
+
+## Coming soon: A data science toolkit to study US school boards
+
+<img class="logo-img" src="logo.png" alt="DistrictView logo">
+
+DistrictView is the <u>largest</u> collection of school board meetings ever assembled and publicly released. We identify, process, clean, and publicly release data on school board meetings as posted on YouTube.
+
+DistrictView is a project by [Tyler Simko](https://www.tylersimko.com), Postdoctoral Fellow at Princeton University, and [Rebecca Johnson](https://www.rebeccajohnson.io/), Assistant Professor at Georgetown's McCourt School of Public Policy.
+
+DistrictView is a companion project to [LocalView](https://localview.net/), by [Soubhik Barari](https://soubhikbarari.com/) and [Tyler Simko](https://www.tylersimko.com).
+
+---
+
+#### We collect tens of thousands of meetings just like this one:
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/lVC5NnfiJ48?si=9-K_BRpYLRRCL4HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
