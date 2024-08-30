@@ -3,11 +3,13 @@
 .title {
   font-size: 4em;
   font-style: bold;
-  color: white;
+  color: #325c7f;
   font-variant: small-caps;
+  font-family: "Lucida Console", monospace;
   padding-bottom: 0em;
-  width: 80%;
+  width: 95%;
 }
+
 
 .quarto-document-content {
     margin-top:  0em;

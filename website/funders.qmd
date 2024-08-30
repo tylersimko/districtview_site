@@ -1,0 +1,20 @@
+---
+title: "Funders"
+about:
+  template: jolla
+---
+
+We're deeply grateful for the generous support of funders who have made this project possible! We'd like to acknowledge the receipt of funding from:
+
+[Georgetown McCourt School's Tech \& Public Policy (TPP) Grant Program](https://mccourt.georgetown.edu/news/tech-public-policy-program-awards-2m-in-research-funding/)
+
+<img class="logo-img" src="funder_logos/tpp.png" alt="McCourt TPP">
+
+[The National Academy of Education (NAEd) + Spencer Foundation Postdoctoral Fellowship](https://naeducation.org/awardee/rebecca-johnson/)
+
+<img class="logo-img" src="funder_logos/naedspencer.png" alt="NAEd/Spencer">
+
+[Georgetown McCourt School's Massive Data Institute (MDI) Scholars Program](https://mdi.georgetown.edu/events/big-ideas-big-impact-georgetown-students-advance-35-data-driven-policy-solutions/)
+
+<img class="logo-img" src="funder_logos/massive_data_institute_logo.jpeg" alt="MDI">
+

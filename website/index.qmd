@@ -10,9 +10,19 @@ about:
 
 DistrictView is the <u>largest</u> collection of school board meetings ever assembled and publicly released. We identify, process, clean, and publicly release data on school board meetings as posted on YouTube.
 
-DistrictView is a project by [Tyler Simko](https://www.tylersimko.com), Postdoctoral Fellow at Princeton University, and [Rebecca Johnson](https://www.rebeccajohnson.io/), Assistant Professor at Georgetown's McCourt School of Public Policy.
+DistrictView is a project co-led by two researchers working alongside a dedicated and brilliant team of data scientists, project managers, and others; more about them [here](researchteam.qmd)! 
+
+<img class="logo-img" src="team_headshots/tsimko_2023.jpeg" alt="Tyler Simko">
+
+[Tyler Simko](https://www.tylersimko.com), Postdoctoral Fellow at Princeton University and Incoming Assistant Professor of Political Science at the University of Michigan
+
+<img class="logo-img" src="team_headshots/rj_headshot.jpg" alt="Rebecca Johnson">
+
+[Rebecca Johnson](https://www.rebeccajohnson.io/), Assistant Professor in Computational Social Science at Georgetown's McCourt School of Public Policy.
 
 DistrictView is a companion project to [LocalView](https://localview.net/), by [Soubhik Barari](https://soubhikbarari.com/) and [Tyler Simko](https://www.tylersimko.com).
+
+The project is also generously supported by funders we thank [here](funders.qmd). 
 
 ---
 

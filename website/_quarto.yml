@@ -3,7 +3,14 @@ project:
 
 website:
   title: "DistrictView"
-  navbar: false
+  navbar: 
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - funders.qmd
+      - researchteam.qmd 
   sidebar: false
   
 format:
