@@ -1,0 +1,59 @@
+/* HERO SECTION */
+.hero {
+    padding: 80px 0 60px;
+}
+
+a {
+    color: #E07829;
+}
+
+a:hover {
+    color: blue;
+}
+
+.btn-primary {
+    --bs-btn-bg: #E07829;
+    --bs-btn-border-color: #E07829;
+}
+
+/* Logo image */
+.logo-img {
+    max-width: 300px;
+    width: 100%;
+    display: block;
+    margin: 1.5rem auto;
+}
+
+
+/* CTA BACKGROUND PANEL */
+.cta-panel {
+    background-image: url("../imgs/sb_background.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 35px 40px;
+    border-radius: 10px;
+    max-width: 900px;
+    position: relative;
+}
+
+/* Dark overlay */
+.cta-panel::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    border-radius: 10px;
+}
+
+/* Ensure buttons are above overlay */
+.cta-panel>div {
+    position: relative;
+    z-index: 1;
+}
+
+/* Divider */
+.content-divider {
+    border-top: 1px solid #111111;
+    margin: 2.5rem auto;
+    max-width: 700px;
+}
